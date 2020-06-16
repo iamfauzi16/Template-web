@@ -1,0 +1,49 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.jumbotron {
+    background-image: url(/assets/image/marcelo-leal-k7ll1hpdhFA-unsplash.jpg);
+    background-size: cover;
+    height: 300px;
+}
+
+.title-header, span {
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: bold;
+    color: #ffffff;
+    text-shadow: 1px 1px 5px rgb(22, 22, 22);
+}
+
+span {
+    font-weight: 500;
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+.btn {
+    margin: 5px;
+}
+
+.footer {
+    position: fixed;
+    padding: 5px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #a8df65;
+    color: black;
+    font-weight: bold;
+    font-size: 12px;
+    text-align: center;
+ }
+
+ .title-menu {
+     padding: 20px;
+     font-weight: bold;
+ }
+
+ 

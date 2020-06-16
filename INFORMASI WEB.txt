@@ -1,0 +1,6 @@
+~~~~~~~~~~~~~~~ .. FILE .. ~~~~~~~~~~~~~~~~~~~~~~~
+
+
+File Website .html Berada di folder Index
+File Assets Berisi folder Gambar dan folder Css
+
